@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/settings"
+        android:title="Settings"
+        />
+
+    <item
+        android:id="@+id/payments"
+        android:title="Payments"
+        />
+
+    <item
+        android:id="@+id/newgroup"
+        android:title="New group"
+        />
+
+    <item
+        android:id="@+id/exit"
+        android:title="Exit"
+        />
+
+    <item
+        android:id="@+id/other"
+        android:title="Other"
+        />
+
+</menu>

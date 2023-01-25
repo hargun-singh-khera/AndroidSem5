@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My First Application</string>
+    <string name="title">My Page</string>
+    <string name="Log_in">Log in</string>
+    <string name="email">Enter your email id</string>
+    <string name="paswd">Enter your password</string>
+</resources>

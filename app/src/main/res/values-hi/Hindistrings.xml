@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name"> मेरा पहला आवेदन </string>
+    <string name="title"> मेरा पन्ना </string>
+    <string name="Log_in"> लॉग इन करें </string>
+    <string name="email"> अपनी ईमेल आईडी दर्ज करें </string>
+    <string name="paswd"> अपना पासवर्ड डालें </string>
+</resources>
